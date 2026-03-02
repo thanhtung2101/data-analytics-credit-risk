@@ -49,13 +49,13 @@ Hệ thống phân loại khách hàng thành 3 nhóm chính. Dưới đây là 
   - Tuyệt đối không chào bán (cross-sell) thêm các sản phẩm vay tiêu dùng.
   - Bộ phận Thu hồi nợ cần ưu tiên tiếp cận sớm (Early Collection) với nhóm này để cơ cấu lại thời hạn trả nợ.
 
-### 🟠 Cluster 2: VIP Spenders (Nhóm Con gà đẻ trứng vàng)
+### 🟠 Cluster 2: VIP Spenders 
 * **Chân dung:** Chỉ gồm 47 khách hàng (nhóm thiểu số) nhưng mang lại tỷ trọng doanh thu quẹt thẻ lớn nhất. Tỷ lệ DTI ở mức cực kỳ an toàn (~0.93).
 * **Đề xuất chiến lược (Growth & Retention):**
   - Cấp thẻ tín dụng phân hạng cao cấp (Signature/Black Card) với hạn mức tối đa.
   - Tích hợp các đặc quyền VIP (Phòng chờ sân bay, hoàn tiền % cao) để tăng lòng trung thành và kích thích họ duy trì Aurora Bank làm ngân hàng giao dịch chính (Main Bank).
 
-### 🟢 Cluster 3: Low Activity (Nhóm Tiềm năng ngủ quên)
+### 🟢 Cluster 3: Low Activity 
 * **Chân dung:** Khách hàng lớn tuổi (trung bình ~66 tuổi), chỉ số an toàn tài chính cực cao (DTI rất thấp, chỉ 0.41) nhưng lại ít phát sinh giao dịch.
 * **Đề xuất chiến lược (Marketing):**
   - Chạy các chiến dịch Targeted Marketing đánh vào nhu cầu thiết yếu của người lớn tuổi (Hoàn tiền khi thanh toán bảo hiểm y tế, mua sắm siêu thị, nhà thuốc).
@@ -64,10 +64,10 @@ Hệ thống phân loại khách hàng thành 3 nhóm chính. Dưới đây là 
 ---
 
 ## 🖥️ 4. Dashboard Showcase
-*(Chèn ảnh chụp màn hình Dashboard Power BI của bạn tại đây)*
-![Aurora Bank Credit Risk Dashboard](link_anh_cua_ban.png)
+<img width="1210" height="680" alt="image" src="https://github.com/user-attachments/assets/f647f5e5-0269-4ba4-8ac8-b8dca23b6ee0" />
 
-> **Lưu ý thiết kế:** Dashboard sử dụng tông màu Navy - Đỏ thẫm chuyên nghiệp, tập trung làm nổi bật thanh biểu đồ DTI của nhóm Risky Borrowers nhằm thu hút sự chú ý tức thì của các cấp quản lý.
+
+
 
 ---
 
