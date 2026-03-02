@@ -42,6 +42,9 @@ Dự án này sử dụng tập dữ liệu giao dịch thẻ tín dụng giả 
 
 Hệ thống phân loại khách hàng thành 3 nhóm chính. Dưới đây là chân dung và chiến lược đề xuất cho từng nhóm:
 
+<img width="1002" height="618" alt="image" src="https://github.com/user-attachments/assets/010c586c-2287-433b-9d3f-2fa144c7e218" />
+
+
 ### 🔴 Cluster 1: Risky Borrowers (Nhóm Báo động đỏ - Nguy cơ vỡ nợ cao)
 * **Chân dung:** Chiếm số lượng đông đảo nhất (162 khách hàng). Điểm đáng lo ngại nhất là mức **DTI trung bình lên tới 1.88** (khoản nợ hiện tại cao gần gấp đôi thu nhập bình quân), trong khi độ tuổi còn khá trẻ (~45 tuổi).
 * **Đề xuất chiến lược (Risk & Collection):** - Đưa ngay vào **Watchlist** (Danh sách theo dõi đặc biệt).
