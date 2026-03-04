@@ -10,7 +10,7 @@
 ## 📌 1. Project Overview (Tổng quan Dự án)
 Trong bối cảnh tỷ lệ nợ xấu (NPL - Non-Performing Loans) tại các ngân hàng thương mại bán lẻ có xu hướng gia tăng, việc quản trị rủi ro dựa trên các báo cáo thống kê tĩnh trong quá khứ chưa đáp ứng được yêu cầu cảnh báo kịp thời. Mục tiêu của dự án là xây dựng một hệ thống phân tích chủ động nhằm nhận diện sớm nhóm khách hàng có rủi ro tín dụng cao và **dự báo thời điểm phát sinh nợ xấu** để đưa ra các biện pháp can thiệp tối ưu.
 
-Dự án ứng dụng các mô hình Thống kê và Học máy chuyên sâu trên ngôn ngữ R để giải quyết bài toán cốt lõi: *"Phân lập tập khách hàng rủi ro và ước lượng thời gian duy trì khả năng thanh toán của từng nhóm khách hàng."*
+Dự án ứng dụng các mô hình Thống kê và Học máy chuyên sâu trên ngôn ngữ R để giải quyết bài toán cốt lõi: *"Phân nhóm tập khách hàng rủi ro và ước lượng thời gian duy trì khả năng thanh toán của từng nhóm khách hàng."*
 
 ---
 
